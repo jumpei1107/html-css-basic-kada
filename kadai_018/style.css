@@ -12,7 +12,7 @@
 p.top-child{
     width: 20%;
     background-color: #ffd9df;
-    display: inline;
+     display: inline-block;
 }
 
 div#middle{
